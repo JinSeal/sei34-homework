@@ -97,7 +97,7 @@ findAllergies.diagnosis(0);
 //     let m = 7;
 //     const calcAllergies = function(score) {
 //         if (m >= 0){
-//             if (m >= 0 && score >= 2**m) {
+//             if (score >= 2**m) {
 //                 score -= 2 ** m;
 //                 console.log(`The person is allergic to ${scorecard[m]}.`);
 //                 list.push(scorecard[m]);
